@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Siri
+Comment=Open Siri App
+Keywords=Siri
+Exec=/home/pierre/Documents/projets_python/Siri/Siri.py
+Icon=/home/pierre/Documents/projets_python/Siri/core/Siri.png
+Terminal=true
+Type=Application
+StartupNotify=true
+Name[en_US]=Siri
